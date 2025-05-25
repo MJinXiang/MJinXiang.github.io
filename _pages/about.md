@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Jinxiang Meng Personal Homepage!
 
-I am a first-year Master’s student, trained at the Institute of Automation, Chinese Academy of Sciences, under the supervision of Professor [Kang Liu](https://people.ucas.ac.cn/~liukang).
+I am a first-year Master’s student, cultivated under the joint program with the Institute of Automation, Chinese Academy of Sciences, supervised by Professor [Kang Liu](https://people.ucas.ac.cn/~liukang).
 
 My research interests focus on Natural Language Processing, particularly in areas such as LLM-Agent, table reasoning, and tool use. 
 
