@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Jinxiang Meng Personal Homepage!
 
-I am currently a first-year Master’s student at the Institute of Automation, Chinese Academy of Sciences, supervised by Professor [Liu Kang](https://people.ucas.ac.cn/~liukang). 
+I am a first-year Master’s student, trained at the Institute of Automation, Chinese Academy of Sciences, under the supervision of Professor [Kang Liu](https://people.ucas.ac.cn/~liukang).
 
 My research interests focus on Natural Language Processing, particularly in areas such as LLM-Agent, table reasoning, and tool use. 
 
@@ -51,7 +51,7 @@ Jianwen Luo<sup>*</sup>, Yiming Huang<sup>*</sup>, **Jinxiang Meng**, Fangyu Lei
 
 
 # 📖 Educations
-- *2024.09 - 2027.07 (now)*, Master in Computer Technology, Joint Training Program of Nanjing University of Posts and Telecommunications and UCAS Nanjing College – “Outstanding Graduate Student” Special Program. 
+- *2024.09 - (now)*, Master in Computer Technology, Joint Training Program of Nanjing University of Posts and Telecommunications and UCAS Nanjing College – “Outstanding Graduate Student” Special Program. 
 - *2021.09 - 2022.07*, Undergraduate Visiting Student, Information Management and Information Systems, Tianjin University, Tianjin.
 
 # 🎖 Honors and Awards
