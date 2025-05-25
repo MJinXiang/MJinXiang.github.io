@@ -18,8 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Welcome to Jinxiang Meng Personal Homepage!
+
 I am currently a first-year Master’s student at the Institute of Automation, Chinese Academy of Sciences, supervised by Professor [Liu Kang](https://people.ucas.ac.cn/~liukang). 
+
 My research interests focus on Natural Language Processing, particularly in areas such as LLM-Agent, table reasoning, and tool use. 
+
 With an undergraduate background in economics and management, I began exploring artificial intelligence in July 2024. Since then, I have developed a strong passion for this field and am dedicated to contributing meaningful work toward the advancement of AGI.
 
 <!-- 
@@ -37,11 +40,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 [GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks](https://arxiv.org/abs/2502.14848)
 
-Jianwen Luo*, Yiming Huang*, **Jinxiang Meng**, Fangyu Lei, Shizhu He, Xiao Liu, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu
+Jianwen Luo<sup>*</sup>, Yiming Huang<sup>*</sup>, **Jinxiang Meng**, Fangyu Lei, Shizhu He, Xiao Liu, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu
 
 [[PDF]](https://arxiv.org/pdf/2502.14848)[[Code]](https://github.com/ayanami2003/GATE)
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -50,7 +51,7 @@ Jianwen Luo*, Yiming Huang*, **Jinxiang Meng**, Fangyu Lei, Shizhu He, Xiao Liu,
 
 
 # 📖 Educations
-- *2024.09 - 2027.07 (now)*, Master in Computer Technology, Joint Training Program of Nanjing University of Posts and Telecommunications and UCASNJ – “Outstanding Graduate Student” Special Program. 
+- *2024.09 - 2027.07 (now)*, Master in Computer Technology, Joint Training Program of Nanjing University of Posts and Telecommunications and UCAS Nanjing College – “Outstanding Graduate Student” Special Program. 
 - *2021.09 - 2022.07*, Undergraduate Visiting Student, Information Management and Information Systems, Tianjin University, Tianjin.
 
 # 🎖 Honors and Awards
