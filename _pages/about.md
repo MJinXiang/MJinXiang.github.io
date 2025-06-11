@@ -31,9 +31,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.06*: &nbsp;📢📢 We have released the paper, code and datasets for "Reasoning-Table: Exploring Reinforcement Learning for Table Reasoning".
 - *2025.02*: &nbsp;📢📢 We have released the paper and code for "GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks".
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/Reasoning-table.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reasoning-Table: Exploring Reinforcement Learning for Table Reasoning)
+
+Fangyu Lei<sup>*</sup>, **Jinxiang Meng<sup>*</sup>**, Yiming Huang, Tinghong Chen, Yun Zhang, Shizhu He, Jun Zhao, Kang Liu
+
+[[PDF]](https://arxiv.org/pdf/2506.01710)[[Code]](https://github.com/MJinXiang/Reasoning-Table) [[Datasets]](https://huggingface.co/datasets/TableQAKit/Reasoning-Table)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/GATE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
